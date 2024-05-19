@@ -1,4 +1,4 @@
-A collection of Digital signal processing routins or functions written in c/c++ and/or matlab.
+A collection of Digital signal processing routines/functions written in c/c++ and/or matlab.
 
 The goal behind this repository is to have the code as modular as possible.
 
